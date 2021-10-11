@@ -1,0 +1,15 @@
+.rule {
+    position: absolute;
+    z-index: 0;
+    height: 300px;
+    width: 1px;
+    top: 50px;
+    border: dashed #000;
+    border-width: 0 1px 0 0;
+    transform: rotateZ(45deg);
+}
+
+#bg2 .rule {
+    border: dashed white;
+    border-width: 0 1px 0 0;
+}

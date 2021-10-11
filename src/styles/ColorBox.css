@@ -1,0 +1,10 @@
+.colorbox {
+    width: 200px;
+    height: 200px;
+}
+.colorbox-popover {
+    position: absolute;
+    z-index: 2;
+    left: 35px;
+    top: 305px;
+}

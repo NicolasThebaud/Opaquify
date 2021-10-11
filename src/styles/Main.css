@@ -1,0 +1,36 @@
+.box1 {
+    position: absolute;
+    top: 20px;
+    z-index: 10;
+}
+.box2 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 220px;
+    top: 70px;
+    z-index: 10;
+}
+.box2>p {
+    position: absolute;
+    width: 100%;
+    align: center;
+    top: -50px;
+}
+
+.slidecontainer {
+    position: absolute;
+    top: 500px;
+    width: 200px;
+}
+.slider {
+    height: 25px;
+    background: #d3d3d3;
+    opacity: 0.7;
+}
+
+.color-result {
+    position: absolute;
+    left: 255px;
+    top: 325px;
+}
